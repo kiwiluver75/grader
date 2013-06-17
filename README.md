@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+=======
+grader
+=====
+
+A simple grader for USACO-type problems
+
 TJ SCT Grader 2.1
 Puneeth Uttla, 2013 adapted from Sreenath Are, 2012
 
@@ -24,9 +29,3 @@ COMPILATION
     first compile libsandbox (in lib/libsandbox), then run src/build.sh
 
 
-=======
-grader
-======
-
-A simple grader for USACO-type problems
->>>>>>> 814c40b91bf2b9f753cc6d7177fde38976b7a4fc
