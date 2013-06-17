@@ -5,6 +5,7 @@ grader
 A simple grader for USACO-type problems
 
 TJ SCT Grader 2.1
+
 Puneeth Uttla, 2013 adapted from Sreenath Are, 2012
 
 USAGE
